@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "build": "postcss css/tailwind.css -o public/build/tailwind.css"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.7.4",
+    "live-server": "^1.2.1",
+    "postcss-cli": "^7.1.0",
+    "tailwindcss": "^1.2.0"
+  },
+  "name": "my-tailwind-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT"
+}
